@@ -1,0 +1,12 @@
+{
+    "name": "treast/auth",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vincent Riva",
+            "email": "vincent.riva@outlook.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
